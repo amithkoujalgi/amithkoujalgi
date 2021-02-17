@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Visitor Count](https://profile-counter.glitch.me/amithkoujalgi/count.svg)
 -->
 
 [![Amith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amithkoujalgi)](https://github.com/amithkoujalgi/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/amithkoujalgi/count.svg)
+
+![](https://komarev.com/ghpvc/?username=amithkoujalgi&color=green)
+
