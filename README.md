@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Amith's GitHub stats](https://github-readme-stats.vercel.app/api?username=amithkoujalgi)](https://github.com/amithkoujalgi/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/amithkoujalgi/count.svg)
