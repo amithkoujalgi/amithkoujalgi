@@ -5,19 +5,17 @@
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amithkoujalgi" alt="amithkoujalgi" /></a> </p>
--->
 
 <p align="left"> <a href="https://twitter.com/amithkoujalgi" target="blank"><img src="https://img.shields.io/twitter/follow/amithkoujalgi?logo=twitter&style=for-the-badge" alt="amithkoujalgi" /></a> </p>
+-->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amithkoujalgi" height="30" width="40" /></a>
 <a href="https://twitter.com/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amithkoujalgi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amithkoujalgi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1335709" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1335709" height="30" width="40" /></a>
 <a href="https://instagram.com/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amithkoujalgi" height="30" width="40" /></a>
-<a href="https://medium.com/@koujalgi.amith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@koujalgi.amith" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="amithkoujalgi" height="30" width="40" /></a>
 </p>
 
