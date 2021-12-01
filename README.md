@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amithkoujalgi" height="30" width="40" /></a>
+<a href="https://twitter.com/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="amithkoujalgi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amithkoujalgi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1335709" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1335709" height="30" width="40" /></a>
 <a href="https://instagram.com/amithkoujalgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amithkoujalgi" height="30" width="40" /></a>
