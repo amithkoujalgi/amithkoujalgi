@@ -28,5 +28,5 @@
 <a href="https://linkedin.com/in/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/1335709" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="1335709" height="34" width="40" /></a>
 <a href="https://instagram.com/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-background-hd-3.png" alt="amithkoujalgi" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-icon-logo-7.png" alt="amithkoujalgi" height="25" width="40" /></a>
+<a href="https://www.youtube.com/c/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-icon-logo-7.png" alt="amithkoujalgi" height="25" width="45" /></a>
 </p>
