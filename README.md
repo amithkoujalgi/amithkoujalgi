@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋, I'm Amith Koujalgi</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amithkoujalgi&label=Profile%20views&color=0e75b6&style=flat" alt="amithkoujalgi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amithkoujalgi&label=Profile%20views&color=0e75b6&style=flat" alt="amithkoujalgi" /> </p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amithkoujalgi" alt="amithkoujalgi" /></a> </p>
