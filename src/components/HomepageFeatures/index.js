@@ -27,7 +27,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
         description: (
             <>
-                Harness multiple AI models to get best results.
+                Start-up mindset. Always keen about advancements in tech.
             </>
         ),
     },
