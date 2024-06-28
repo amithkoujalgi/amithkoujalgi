@@ -8,7 +8,7 @@ const FeatureList = [
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
-                Build several products and platforms for various industries such as Banking, Retail, and more.
+                Built several products and platforms for various industries such as Banking, Retail, and more.
             </>
         ),
     },
