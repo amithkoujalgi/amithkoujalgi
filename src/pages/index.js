@@ -14,12 +14,15 @@ function HomepageHeader() {
             <Heading as="h1" className="hero__title">
                 {siteConfig.title}
             </Heading>
-            <p className="hero__subtitle">{siteConfig.tagline}</p>
+            <p className="hero__subtitle" style={{fontWeight: "bold"}}>{siteConfig.tagline}</p>
+            <p className="hero__subtitle">I'm Amith Koujalgi and I'm a Software Engineer.</p>
+            <p className="hero__subtitle">This is my professional bio.</p>
+
             <div className={styles.buttons}>
                 <Link
                     className="button button--secondary button--lg"
                     to="/docs/intro">
-                    Learn More
+                    View Full Profile
                 </Link>
             </div>
         </div>

@@ -45,3 +45,7 @@ table {
     width: 100%;
     margin: 0 auto;
 }
+
+.hero__title{
+    display: none;
+}
