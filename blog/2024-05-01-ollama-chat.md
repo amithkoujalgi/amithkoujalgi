@@ -11,7 +11,7 @@ import OllamaChatUI1 from '@site/static/img/ollama-chat-ui.png';
 
 This article helps you build a simple user interface for Ollama server.
 
-With this interface you can:
+With this user interface you can:
 
 - set the Ollama host to you want to use
 - select models available on Ollama
