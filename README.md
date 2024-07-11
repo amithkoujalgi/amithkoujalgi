@@ -56,3 +56,6 @@
 <a href="https://stackoverflow.com/users/1335709" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="1335709" height="34" width="40" /></a>
 <a href="https://www.youtube.com/c/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-icon-logo-7.png" alt="amithkoujalgi" height="30" width="45" /></a>
 </p>
+
+
+<iframe id='kofiframe' src='https://ko-fi.com/amithkoujalgi/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='amithkoujalgi'></iframe>
