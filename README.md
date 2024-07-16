@@ -8,7 +8,7 @@
 
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=amithkoujalgi&label=Profile%20views&color=0e75b6&style=flat" alt="amithkoujalgi" /> 
+   <img src="https://komarev.com/ghpvc/?username=amithkoujalgi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amithkoujalgi" /> 
 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/amithkoujalgi?style=for-the-badge&label=Total%20Stars">
 
