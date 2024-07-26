@@ -9,9 +9,12 @@
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=amithkoujalgi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amithkoujalgi" /> 
+   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/amithkoujalgi?style=for-the-badge&label=Total%20Stars">
+</p>
 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/amithkoujalgi?style=for-the-badge&label=Total%20Stars">
-
+<p align="center">
+   Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a>
+   <img width="30" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4"/>
 </p>
 
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/amithkoujalgi/badges/community)](https://community.vaunt.dev/board/amithkoujalgi)
