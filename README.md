@@ -59,6 +59,13 @@
     </a>
 </p>
 
+<table align="center">
+   <tr>
+      <td>Created <a href="https://github.com/amithkoujalgi/distributed-system-observability-demo">Distributed system observability stack</a></td>
+      <td>Stock market platform simulation with distributed systems and observability stack</td>
+   </tr>
+</table>
+
 <!--
 <p align="center">
   <a href="https://vaunt.dev">
