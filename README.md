@@ -41,7 +41,7 @@
    <tr>
       <td>Maintainer of <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
       <td><img width="30" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="NetGaze Logo"/></td>
-      <td></td>
+      <td>         <a href="https://github.com/orgs/NetGaze/packages?repo_name=NetGaze" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a></td>
    </tr>
 </table>
 
