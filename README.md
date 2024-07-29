@@ -74,8 +74,12 @@
 <td><a href="https://github.com/amithkoujalgi/distributed-system-observability-demo">Project Repo</a></td>
    
    </tr>   <tr>
-            <td>Workflow orchestration with Netflix's Conductor with workers as Spring Boot apps and observability over the orchestration. </td>
+            <td>Workflow orchestration with Netflix's Conductor with workers as Spring Boot apps and observability over the orchestration.</td>
 <td><a href="https://github.com/amithkoujalgi/workflow-orchestration-on-conductor-with-observability">Project Repo</a></td>
+   
+   </tr><tr>
+            <td>Integration of Spring Cloud Data Flow with Kafka-Binder: A Cohesive Microservice Workflow</td>
+<td><a href="https://github.com/amithkoujalgi/spring-cloud-data-flow-with-kafka-binder-demo">Project Repo</a></td>
    
    </tr>
 
