@@ -15,6 +15,7 @@
    <tr>
       <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a></td>
       <td><img width="30" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
+      <td>Java client to access local LLMs via Ollama API</td>
       <td>
          <img src="https://img.shields.io/github/stars/ollama4j/ollama4j" alt="GitHub stars" />
          <img src="https://img.shields.io/github/forks/ollama4j/ollama4j" alt="GitHub forks" />
@@ -25,6 +26,7 @@
    <tr>
       <td>Author of <a href="https://github.com/amithkoujalgi/ollama-pdf-bot">Ollama PDF Bot</a></td>
       <td><img width="30" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="Ollama PDF Bot Logo"/></td>
+      <td>Chat with your PDFs using local LLMs served by Ollama</td>
       <td>
          <img src="https://img.shields.io/github/stars/amithkoujalgi/ollama-pdf-bot?style=social"/>
          <img src="https://img.shields.io/github/forks/amithkoujalgi/ollama-pdf-bot?style=social"/>
@@ -33,6 +35,7 @@
    <tr>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru</a></td>
       <td><img width="30" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
+      <td>CLI tool for log analysis and visualization using LLMs</td>
       <td>
          <a href="https://github.com/Loguru-AI/Loguru-CLI/releases" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a>
          <a href="https://pypi.org/project/loguru-cli/" target="_blank"><img src="https://img.shields.io/badge/releases_on-PyPi-blue?style=flat" alt="Releases on GitHub"/></a>
@@ -41,6 +44,7 @@
    <tr>
       <td>Authoring <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
       <td><img width="30" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="NetGaze Logo"/></td>
+      <td>Network monitoring and analysis tool</td>
       <td>         <a href="https://github.com/orgs/NetGaze/packages?repo_name=NetGaze" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a></td>
    </tr>
 </table>
