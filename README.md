@@ -35,7 +35,7 @@
    <tr>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru</a></td>
       <td><img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
-      <td>CLI tool for log analysis and visualization using LLMs</td>
+      <td>CLI based log intelligence tool powered by LLMs</td>
       <td>
          <a href="https://github.com/Loguru-AI/Loguru-CLI/releases" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a>
          <a href="https://pypi.org/project/loguru-cli/" target="_blank"><img src="https://img.shields.io/badge/releases_on-PyPi-blue?style=flat" alt="Releases on GitHub"/></a>
