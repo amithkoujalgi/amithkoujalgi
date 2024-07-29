@@ -58,16 +58,28 @@
         <img src="https://api.vaunt.dev/v1/github/entities/amithkoujalgi/badges/community" alt="Vaunt Community">
     </a>
 </p>
+
+
 <br/><br/>
+
+
 <p align="center">
    Other Projects
 </p>
+
+
 <table align="center">
    <tr>
             <td>Stock market platform simulation with distributed systems and observability stack</td>
 <td><a href="https://github.com/amithkoujalgi/distributed-system-observability-demo">Project Repo</a></td>
    
+   </tr>   <tr>
+            <td>Workflow orchestration with Netflix's Conductor with workers as Spring Boot apps and observability over the orchestration. </td>
+<td><a href="https://github.com/amithkoujalgi/workflow-orchestration-on-conductor-with-observability">Project Repo</a></td>
+   
    </tr>
+
+   
 </table>
 
 <!--
