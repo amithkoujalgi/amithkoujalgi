@@ -30,11 +30,12 @@
          <img src="https://img.shields.io/github/forks/amithkoujalgi/ollama-pdf-bot?style=social"/>
       </td>
    </tr>
-   <tr>
-      <td>Maintainer of <a href="https://github.com/Loguru-AI/Loguru-CLI">Loguru</a></td>
-      <td><img width="30" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
-      <td><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat&link=https%3A%2F%2Fgithub.com%2FLoguru-AI%2FLoguru-CLI%2Freleases"/></td>
-   </tr>
+<tr>
+    <td>Maintainer of <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank" rel="noopener noreferrer">Loguru</a></td>
+    <td><img width="30" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
+    <td><a href="https://github.com/Loguru-AI/Loguru-CLI/releases" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a></td>
+</tr>
+
    <tr>
       <td>Maintainer of <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
       <td><img width="30" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="NetGaze Logo"/></td>
