@@ -2,18 +2,48 @@
 <h3 align="center">Software Engineer. Tech Enthusiast.</h3>
 
 
-<p align="center">
-<a href="https://amithkoujalgi.github.io/amithkoujalgi/" target="blank">View Full Profile</a>
-</p>
 
 
+<!--
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=amithkoujalgi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="amithkoujalgi" /> 
    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/amithkoujalgi?style=for-the-badge&label=Total%20Stars">
 </p>
+-->
+
+<table align="center">
+   <tr>
+      <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a></td>
+      <td><img width="30" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
+      <td>
+         <img src="https://img.shields.io/github/stars/ollama4j/ollama4j" alt="GitHub stars" />
+         <img src="https://img.shields.io/github/forks/ollama4j/ollama4j" alt="GitHub forks" />
+         <img src="https://img.shields.io/github/watchers/ollama4j/ollama4j" alt="GitHub watchers" />
+         <img src="https://img.shields.io/github/contributors/ollama4j/ollama4j?style=social" alt="Contributors" />
+      </td>
+   </tr>
+   <tr>
+      <td>Author of <a href="https://github.com/amithkoujalgi/ollama-pdf-bot">Ollama PDF Bot</a></td>
+      <td><img width="30" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="Ollama PDF Bot Logo"/></td>
+      <td>
+         <img src="https://img.shields.io/github/stars/amithkoujalgi/ollama-pdf-bot?style=social"/>
+         <img src="https://img.shields.io/github/forks/amithkoujalgi/ollama-pdf-bot?style=social"/>
+      </td>
+   </tr>
+   <tr>
+      <td>Maintainer of <a href="https://github.com/Loguru-AI/Loguru-CLI">Loguru</a></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
+      <td><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat&link=https%3A%2F%2Fgithub.com%2FLoguru-AI%2FLoguru-CLI%2Freleases"/></td>
+   </tr>
+   <tr>
+      <td>Maintainer of <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
+      <td><img width="30" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="NetGaze Logo"/></td>
+      <td></td>
+   </tr>
+</table>
 
 <p align="center">
-   Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j <img width="30" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4"/></a>
+   <a href="https://amithkoujalgi.github.io/amithkoujalgi/" target="blank">View Full Profile</a>
 </p>
 
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/amithkoujalgi/badges/community)](https://community.vaunt.dev/board/amithkoujalgi)
