@@ -99,6 +99,7 @@
 </p>
 -->
 
+  <!--
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" height="40" width="40" /></a>
@@ -106,4 +107,4 @@
 <a href="https://stackoverflow.com/users/1335709" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="1335709" height="34" width="40" /></a>
 <a href="https://www.youtube.com/c/amithkoujalgi" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-icon-logo-7.png" alt="amithkoujalgi" height="30" width="45" /></a>
 </p>
-
+-->
