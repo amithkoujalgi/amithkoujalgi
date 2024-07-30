@@ -44,7 +44,7 @@
    <tr>
       <td>Authoring <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
       <td><img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
-      <td>Lightweight network observability tool to monitor connectivity between the various components of the system/micorservices.</td>
+      <td>Lightweight network observability tool to the monitor network components.</td>
       <td>         <a href="https://github.com/orgs/NetGaze/packages?repo_name=NetGaze" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a></td>
    </tr>
 </table>
