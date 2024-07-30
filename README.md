@@ -13,8 +13,8 @@
 
 <table align="center">
    <tr>
+      <td>1. <img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
       <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a></td>
-      <td><img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
       <td>Java client to access local LLMs via Ollama API</td>
       <td>
          <img src="https://img.shields.io/github/stars/ollama4j/ollama4j" alt="GitHub stars" />
@@ -24,8 +24,8 @@
       </td>
    </tr>
    <tr>
+      <td>2. <img width="50" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="Ollama PDF Bot Logo"/></td>
       <td>Author of <a href="https://github.com/amithkoujalgi/ollama-pdf-bot">Ollama PDF Bot</a></td>
-      <td><img width="50" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="Ollama PDF Bot Logo"/></td>
       <td>Chat with your PDFs using local LLMs served by Ollama</td>
       <td>
          <img src="https://img.shields.io/github/stars/amithkoujalgi/ollama-pdf-bot?style=social"/>
@@ -33,19 +33,21 @@
       </td>
    </tr>
    <tr>
+      <td>3. <img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
-      <td><img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>CLI based log intelligence tool powered by LLMs</td>
       <td>
          <a href="https://github.com/Loguru-AI/Loguru-CLI/releases" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a>
-         <a href="https://pypi.org/project/loguru-cli/" target="_blank"><img src="https://img.shields.io/badge/releases_on-PyPi-blue?style=flat" alt="Releases on GitHub"/></a>
+         <a href="https://pypi.org/project/loguru-cli/" target="_blank"><img src="https://img.shields.io/badge/releases_on-PyPi-blue?style=flat" alt="Releases on PyPi"/></a>
       </td>
    </tr>
    <tr>
+      <td>4. <img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
       <td>Authoring <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
-      <td><img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
       <td>Lightweight network observability tool to the monitor network components.</td>
-      <td>         <a href="https://github.com/orgs/NetGaze/packages?repo_name=NetGaze" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a></td>
+      <td>
+         <a href="https://github.com/orgs/NetGaze/packages?repo_name=NetGaze" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a>
+      </td>
    </tr>
 </table>
 
