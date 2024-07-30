@@ -33,7 +33,7 @@
       </td>
    </tr>
    <tr>
-      <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru</a></td>
+      <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
       <td><img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>CLI based log intelligence tool powered by LLMs</td>
       <td>
