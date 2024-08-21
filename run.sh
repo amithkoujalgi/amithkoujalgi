@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
+
+set -e
+
 npm i
 
-# dev mode
+# run in dev mode
 npm run start
