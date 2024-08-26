@@ -9,7 +9,7 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
     const {siteConfig} = useDocusaurusContext();
-    return (<header className={clsx('hero hero--primary', styles.heroBanner)}>
+    return (<div className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
             <Heading as="h1" className="hero__title">
                 {siteConfig.title}
@@ -26,8 +26,21 @@ function HomepageHeader() {
                 </Link>
             </div>
         </div>
-    </header>);
+    </div>);
 }
+
+// export default function Home() {
+//     const {siteConfig} = useDocusaurusContext();
+//     return (<Layout
+//         // title={`${siteConfig.title}`}
+//         title={"My Profile"}
+//         description="Description will go into a meta tag in <head />">
+//         <HomepageHeader/>
+//         <main>
+//             <HomepageFeatures/>
+//         </main>
+//     </Layout>);
+// }
 
 export default function Home() {
     const {siteConfig} = useDocusaurusContext();
@@ -36,8 +49,5 @@ export default function Home() {
         title={"My Profile"}
         description="Description will go into a meta tag in <head />">
         <HomepageHeader/>
-        <main>
-            <HomepageFeatures/>
-        </main>
     </Layout>);
 }
