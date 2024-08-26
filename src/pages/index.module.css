@@ -26,3 +26,7 @@
     align-items: center;
     justify-content: center;
 }
+
+:root {
+  --ifm-color-primary: #14387a;
+}
