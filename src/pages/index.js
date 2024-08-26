@@ -47,7 +47,7 @@ export default function Home() {
     return (<Layout
         // title={`${siteConfig.title}`}
         title={"My Profile"}
-        description="Description will go into a meta tag in <head />">
+        description="Amith Koujalgi, Software Engineer.">
         <HomepageHeader/>
     </Layout>);
 }

@@ -4,11 +4,10 @@
  */
 
 .heroBanner {
-    padding: 4rem 0;
+    padding: 0rem 0;
     text-align: center;
     position: relative;
     overflow: hidden;
-
     background: #303846e3;
     width: 100%;
     height: 100vh;
@@ -28,5 +27,5 @@
 }
 
 :root {
-  --ifm-color-primary: #14387a;
+    --ifm-color-primary: #14387a;
 }

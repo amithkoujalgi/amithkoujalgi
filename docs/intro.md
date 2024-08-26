@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-Software Engineer with over 11 years of experience in designing and developing distributed systems and cloud-based
+I'm a software engineer with over 11 years of experience in designing and developing distributed systems and cloud-based
 software products. Adept at leading development teams, mentoring junior engineers, and implementing agile methodologies.
 With a strong background in both startup environments and enterprise software, I bring a customer-first mindset and a
 passion for emerging technologies. An active open-source contributor and tech enthusiast, I am driven to leverage my
@@ -43,7 +43,7 @@ businesses.
 | **Programming Languages**             | Java, Python                                              |
 | **Web Development**                   | Spring, FastAPI                                           |
 | **Databases**                         | Postgres, MongoDB, Cassandra                              |
-| **Messaging/Queuing**                 | Apache ActiveMQ, Kafka                                    |
+| **Messaging / Queuing**               | Apache ActiveMQ, Kafka                                    |
 | **Searching, Indexing, Lookups**      | Elasticsearch, Redis                                      |
 | **Distributed Processing**            | Apache Spark, Hadoop, Celery, Netflix's Conductor         |
 | **Containerization / Virtualization** | Docker                                                    |
