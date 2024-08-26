@@ -38,16 +38,16 @@ businesses.
 
 ### Skills
 
-| Skill Category                      | Technologies                                              |
-|-------------------------------------|-----------------------------------------------------------|
-| **Programming Languages**           | Java, Python                                              |
-| **Web Development**                 | Spring, FastAPI                                           |
-| **Databases**                       | Postgres, MongoDB, Cassandra                              |
-| **Messaging/Queuing**               | Apache ActiveMQ, Kafka                                    |
-| **Searching, Indexing, Lookups**    | Elasticsearch, Redis                                      |
-| **Distributed Processing**          | Apache Spark, Hadoop, Celery, Netflix's Conductor         |
-| **Containerization/Virtualization** | Docker                                                    |
-| **Cloud Infrastructure**            | AWS, Azure                                                |
-| **Miscellaneous Services**          | Keycloak, Kong, Nginx, Graylog, Grafana, Jenkins (CI/CD)  |
-| **Testing Tools and Frameworks**    | JUnit, Selenium, Apache JMeter                            |
-| **UI/UX (Level: Basic)**            | HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax, Socket.io |
+| Skill Category                        | Technologies                                              |
+|---------------------------------------|-----------------------------------------------------------|
+| **Programming Languages**             | Java, Python                                              |
+| **Web Development**                   | Spring, FastAPI                                           |
+| **Databases**                         | Postgres, MongoDB, Cassandra                              |
+| **Messaging/Queuing**                 | Apache ActiveMQ, Kafka                                    |
+| **Searching, Indexing, Lookups**      | Elasticsearch, Redis                                      |
+| **Distributed Processing**            | Apache Spark, Hadoop, Celery, Netflix's Conductor         |
+| **Containerization / Virtualization** | Docker                                                    |
+| **Cloud Infrastructure**              | AWS, Azure                                                |
+| **Miscellaneous Services**            | Keycloak, Kong, Nginx, Graylog, Grafana, Jenkins (CI/CD)  |
+| **Testing Tools and Frameworks**      | JUnit, Selenium, Apache JMeter                            |
+| **UI/UX (Level: Basic)**              | HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax, Socket.io |
