@@ -4,22 +4,20 @@ sidebar_position: 1
 
 # Intro
 
-I'm a software engineer with over 11 years of experience in designing and developing distributed systems and cloud-based
-software products. Adept at leading development teams, mentoring junior engineers, and implementing agile methodologies.
-With a strong background in both startup environments and enterprise software, I bring a customer-first mindset and a
-passion for emerging technologies. An active open-source contributor and tech enthusiast, I am driven to leverage my
-comprehensive software development expertise to create impactful solutions that deliver value for both users and
-businesses.
+I'm a software engineer with over 11 years of experience in building software products.
+I have a strong background in building solutions that deliver great value to enterprises.
+Experienced in mentoring junior engineers and leading development teams.
+A tech enthusiast with a passion for emerging technologies, I actively contribute to open-source projects, staying
+engaged with the latest industry trends.
 
 ### Work Experience
 
 - Led the development of B2B platforms, including Razorthink aiOS (a platform for building and running custom AI
   solutions) and Foresight AI (an AI-based demand forecasting platform catering to FMCG companies).
-- Worked with our customer - Axis Bank (one of the largest banks in India) teams to build and run AI solutions
-  on Razorthink aiOS platform for their use-cases: customer churn, cross-sell and up-sell of their products.
-- Worked with our customer - Reliance Jio Infocomm Limited (leading telecom company in India) teams to build
-  and run AI solutions on Razorthink aiOS platform for their use-cases: customer churn and suggesting recharge plans
-  based on user’s data usage.
+- Collaborated with a major Indian bank to develop and implement AI solutions on the Razorthink aiOS platform, targeting
+  customer churn and enhancing cross-selling and upselling strategies.
+- Partnered with a leading telecom company in India to develop and implement AI solutions on the Razorthink aiOS
+  platform, focusing on reducing customer churn and recommending recharge plans based on user data usage.
 - Architected systems using microservices with Spring Boot, Spring Cloud Gateway, Kong API Gateway, Spring web security,
   Eureka service registry, Spring admin. Orchestrated OAuth flow implementation using Keycloak.
 - Setup the observability stack with Loki, Tempo, Prometheus, and Grafana. Setup dashboards to monitor HTTP request
