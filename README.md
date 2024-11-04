@@ -31,6 +31,17 @@
       </td>
    </tr>
    <tr>
+      <td>1. <img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Web UI Logo"/></td>
+      <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j-web-ui">Ollama4j Web UI</a></td>
+      <td>Web UI for Ollama built in Java with Vaadin and Spring Boot</td>
+      <td>
+         <img src="https://img.shields.io/github/stars/ollama4j/ollama4j-web-ui" alt="GitHub stars" />
+         <img src="https://img.shields.io/github/forks/ollama4j/ollama4j-web-ui" alt="GitHub forks" />
+         <img src="https://img.shields.io/github/watchers/ollama4j/ollama4j-web-ui" alt="GitHub watchers" />
+         <img src="https://img.shields.io/github/contributors/ollama4j/ollama4j-web-ui?style=social" alt="Contributors" />
+      </td>
+   </tr>
+   <tr>
       <td>3. <img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
       <td>CLI based log intelligence tool powered by LLMs</td>
