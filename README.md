@@ -31,7 +31,7 @@
       </td>
    </tr>
    <tr>
-      <td>1. <img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Web UI Logo"/></td>
+      <td>3. <img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Web UI Logo"/></td>
       <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j-web-ui">Ollama4j Web UI</a></td>
       <td>Web UI for Ollama built in Java with Vaadin and Spring Boot</td>
       <td>
@@ -42,7 +42,7 @@
       </td>
    </tr>
    <tr>
-      <td>3. <img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
+      <td>4. <img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
       <td>CLI based log intelligence tool powered by LLMs</td>
       <td>
@@ -52,7 +52,7 @@
       </td>
    </tr>
    <tr>
-      <td>4. <img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
+      <td>5. <img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
       <td>Authoring <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
       <td>Lightweight network observability tool to monitor network components.</td>
       <td>
