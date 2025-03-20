@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: "Amith Koujalgi",
-    tagline: "Hello, World!👋",
+    tagline: "Nature is the ultimate algorithm, where each moment unfolds as a masterstroke of design. Observation is the key that unlocks its brilliance, revealing the intricate patterns and hidden beauty woven into the fabric of the world.",
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
@@ -75,6 +75,7 @@ const config = {
                         label: 'Profile',
                     },
                     {to: '/blog', label: 'Blog', position: 'left'},
+                    {to: '/photography', label: 'Photography', position: 'left'},
                     {
                         href: 'https://github.com/amithkoujalgi',
                         label: 'GitHub',
@@ -84,7 +85,12 @@ const config = {
                         href: 'https://www.linkedin.com/in/amithkoujalgi/',
                         label: 'LinkedIn',
                         position: 'right'
-                    }
+                    },
+                    {
+                        href: 'https://www.instagram.com/amithkoujalgi/',
+                        label: 'Instagram',
+                        position: 'right',
+                    },
                 ],
             },
             footer: {
