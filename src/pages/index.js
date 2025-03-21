@@ -23,25 +23,30 @@ function HomepageHeader() {
                 </div>
             </div>
 
+            <div className="center-container">
+                <div className="text-content-box">
+                    <p className="hero__subtitle home-small-text">
+                        Hey there 👋 I'm an engineer with a passion for tech, photography, and all things creative.
+                    </p>
+                    <p className="hero__subtitle home-small-text">
+                        I love
+                        building cool stuff and vibing to a diverse mix of music genres.
+                    </p>
+                    <p className="hero__subtitle home-small-text">Distributed
+                        systems are where I focus
+                        on solving complex challenges.
+                    </p>
+                </div>
+            </div>
 
-            <p className="hero__subtitle home-small-text">
-                Hey there 👋 I'm an engineer with a passion for tech, photography, and all things creative.
-            </p>
-            <p className="hero__subtitle home-small-text">
-                I love
-                building cool stuff and vibing to a diverse mix of music genres.
-            </p>
-            <p className="hero__subtitle home-small-text">Distributed
-                systems are where I focus
-                on solving complex challenges.
-            </p>
-            <div className={styles.buttons}>
+            <div className={`${styles.buttons} home-read-on-button-container`}>
                 <Link
-                    className="button button--secondary button--lg home-read-button"
+                    className="button button--secondary button--lg home-read-on-button"
                     to="/docs/intro">
                     Read on
                 </Link>
             </div>
+
         </div>
     </div>);
 }

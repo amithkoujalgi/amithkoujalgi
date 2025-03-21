@@ -63,12 +63,20 @@ table {
     display: grid !important;
 }
 
-.home-read-button {
+.home-read-on-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*margin-top: 20px;*/
+    padding-bottom: 20px;
+}
+
+.home-read-on-button {
     background-color: #9e9d9d !important;
     color: #ffffff !important;
 }
 
-.home-small-text{
+.home-small-text {
     font-size: 15px;
     color: #4e4e4e;
     font-style: normal;
@@ -89,6 +97,8 @@ table {
     justify-content: center;
     align-items: center;
     text-align: center;
+    border: 0.5px solid black;
+    padding: 10px 10px 0px 10px;
 }
 
 /* Ensure the image is responsive */
@@ -110,11 +120,20 @@ table {
 
 @media (max-width: 1024px) {
     .center-container {
-        width: 100%;  /* Ensure full width on tablets */
+        width: 100%; /* Ensure full width on tablets */
     }
 
     .content-box {
-        width: 80%;  /* Adjust content-box width for better layout */
+        width: 80%; /* Adjust content-box width for better layout */
     }
 }
 
+.text-content-box {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px 10px 10px 10px; /* Add padding for the border */
+}

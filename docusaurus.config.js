@@ -97,11 +97,15 @@ const config = {
                 style: 'dark',
                 links: [
                     {
-                        title: 'Docs',
+                        title: 'Quick Links',
                         items: [
                             {
                                 label: 'Introduction',
                                 to: '/docs/intro',
+                            },
+                            {
+                                label: 'Projects',
+                                to: '/docs/category/projects',
                             },
                         ],
                     },
@@ -119,15 +123,22 @@ const config = {
                         ],
                     },
                     {
-                        title: 'More',
+                        title: 'Connect',
                         items: [
-                            {
-                                label: 'Blog',
-                                to: '/blog',
-                            },
+
                             {
                                 label: 'Email',
                                 href: 'mailto:koujalgi.amith@gmail.com',
+                            },
+                            {
+                                href: 'https://www.linkedin.com/in/amithkoujalgi/',
+                                label: 'LinkedIn',
+                                position: 'right'
+                            },
+                            {
+                                href: 'https://www.instagram.com/amithkoujalgi/',
+                                label: 'Instagram',
+                                position: 'right',
                             },
                         ],
                     },
