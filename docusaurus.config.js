@@ -75,22 +75,11 @@ const config = {
                         label: 'Profile',
                     },
                     {to: '/blog', label: 'Blog', position: 'left'},
-                    {to: '/photography', label: 'Photography', position: 'left'},
                     {
                         href: 'https://github.com/amithkoujalgi',
                         label: 'GitHub',
                         position: 'right',
-                    },
-                    {
-                        href: 'https://www.linkedin.com/in/amithkoujalgi/',
-                        label: 'LinkedIn',
-                        position: 'right'
-                    },
-                    {
-                        href: 'https://www.instagram.com/amithkoujalgi/',
-                        label: 'Instagram',
-                        position: 'right',
-                    },
+                    }
                 ],
             },
             footer: {
@@ -100,12 +89,16 @@ const config = {
                         title: 'Quick Links',
                         items: [
                             {
-                                label: 'Introduction',
-                                to: '/docs/intro',
-                            },
-                            {
                                 label: 'Projects',
                                 to: '/docs/category/projects',
+                            },
+                            {
+                                label: 'Open-source',
+                                to: '/docs/category/open-source-projects',
+                            },
+                            {
+                                label: 'Photography',
+                                to: '/docs/reveries/photography',
                             },
                         ],
                     },
@@ -117,7 +110,7 @@ const config = {
                                 href: 'https://medium.com/@koujalgi.amith',
                             },
                             {
-                                label: 'Twitter/X - @amithkoujalgi',
+                                label: 'Twitter/X',
                                 href: 'https://x.com/amithkoujalgi',
                             },
                         ],
