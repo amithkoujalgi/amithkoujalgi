@@ -97,7 +97,7 @@ table {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 0.5px solid black;
+    border: 0.5px solid #cecece;
     padding: 10px 10px 0px 10px;
 }
 
@@ -126,10 +126,29 @@ table {
     .content-box {
         width: 80%; /* Adjust content-box width for better layout */
     }
+
+    .text-center-container {
+        width: 100%; /* Ensure full width on tablets */
+    }
+
+    .text-content-box {
+        width: 90%; /* Adjust content-box width for better layout */
+    }
+
+    .hero--primary {
+        padding: 0rem !important;
+    }
+}
+
+/* Center container: default (desktop/laptop) */
+.text-center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .text-content-box {
-    width: 45%;
+    width: 75%;
     display: flex;
     flex-direction: column;
     justify-content: center;

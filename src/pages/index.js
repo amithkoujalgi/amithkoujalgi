@@ -23,18 +23,12 @@ function HomepageHeader() {
                 </div>
             </div>
 
-            <div className="center-container">
+            <div className="text-center-container">
                 <div className="text-content-box">
                     <p className="hero__subtitle home-small-text">
-                        Hey there 👋 I'm an engineer with a passion for tech, photography, and all things creative.
-                    </p>
-                    <p className="hero__subtitle home-small-text">
-                        I love
-                        building cool stuff and vibing to a diverse mix of music genres.
-                    </p>
-                    <p className="hero__subtitle home-small-text">Distributed
-                        systems are where I focus
-                        on solving complex challenges.
+                        Hey there 👋 I'm an engineer with a passion for tech, photography, and anything creative. I enjoy
+                        building systems, solving problems, and vibing to a mix of music.
+                        Distributed systems is what I'm exploring at the moment.
                     </p>
                 </div>
             </div>
