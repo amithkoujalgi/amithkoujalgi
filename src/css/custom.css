@@ -73,3 +73,48 @@ table {
     color: #4e4e4e;
     font-style: normal;
 }
+
+/* Center container: default (desktop/laptop) */
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Content box: maintains the original width */
+.content-box {
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Ensure the image is responsive */
+.content-box img {
+    width: 100%;
+    max-width: 100%;
+}
+
+/*!* Mobile responsiveness *!*/
+/*@media (max-width: 768px) {*/
+/*    .center-container {*/
+/*        width: 100%;  !* Full width on mobile *!*/
+/*    }*/
+
+/*    .content-box {*/
+/*        width: 90%;  !* Adjust content width for better spacing *!*/
+/*    }*/
+/*}*/
+
+@media (max-width: 1024px) {
+    .center-container {
+        width: 100%;  /* Ensure full width on tablets */
+    }
+
+    .content-box {
+        width: 80%;  /* Adjust content-box width for better layout */
+    }
+}
+

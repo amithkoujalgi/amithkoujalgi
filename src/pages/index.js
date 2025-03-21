@@ -16,26 +16,19 @@ function HomepageHeader() {
                 {siteConfig.title}
             </Heading>
 
-            <div style={{
-                display: "flex",
-                justifyContent: "center",   // Center the div horizontally in the parent
-                alignItems: "center",       // Center the div vertically in the parent
-            }}>
-                <div style={{
-                    width: "45%",
-                    display: "flex",
-                    flexDirection: "column",   // Stack image and text vertically
-                    justifyContent: "center",  // Center content vertically within this div
-                    alignItems: "center",      // Center content horizontally within this div
-                    textAlign: "center"        // Center text inside <p> tag
-                }}>
-                    <img src={TailorBird} style={{width: "100%", maxWidth: "100%"}} alt={"Tailor Bird"}/>
+            <div className="center-container">
+                <div className="content-box">
+                    <img src={TailorBird} alt="Tailor Bird"/>
                     <p className="hero__subtitle">{siteConfig.tagline}</p>
                 </div>
             </div>
 
+
             <p className="hero__subtitle home-small-text">
-                Hey there 👋 I'm an engineer with a passion for tech, photography, and all things creative. I love
+                Hey there 👋 I'm an engineer with a passion for tech, photography, and all things creative.
+            </p>
+            <p className="hero__subtitle home-small-text">
+                I love
                 building cool stuff and vibing to a diverse mix of music genres.
             </p>
             <p className="hero__subtitle home-small-text">Distributed
