@@ -36,7 +36,7 @@ function HomepageHeader() {
             <div className={`${styles.buttons} home-read-on-button-container`}>
                 <Link
                     className="button button--secondary button--lg home-read-on-button"
-                    to="/docs/intro">
+                    to="/docs/about">
                     Read on
                 </Link>
             </div>

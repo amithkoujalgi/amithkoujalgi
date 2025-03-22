@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Intro
+# About
 
-I'm a software engineer with over 11 years of experience in building software products.
-I have a strong background in building solutions that deliver great value to enterprises.
-Experienced in mentoring junior engineers and leading development teams.
-A tech enthusiast with a passion for emerging technologies, I actively contribute to open-source projects, staying
-engaged with the latest industry trends.
+Hey 👋! I'm a software engineer who's been building cool [software products](/docs/category/projects) for over a decade.
+I love creating awesome solutions that help big companies work better and smarter.
+I'm passionate about mentoring newer developers and leading teams to build amazing things.
+Tech is my jam - I'm always tinkering with new tools and sharing what I build through [open-source projects](/docs/category/open-source-projects). 
+Beyond coding, I'm passionate about photography and love capturing beautiful moments. Check out some of my work in my [photography portfolio](/docs/reveries/photography).
 
 ### Work Experience
 

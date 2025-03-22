@@ -62,7 +62,7 @@ const config = {
             // Replace with your project's social card
             image: 'img/docusaurus-social-card.jpg',
             navbar: {
-                title: 'Home',
+                title: 'Intro',
                 logo: {
                     alt: 'Logo',
                     src: 'img/logo.png',
@@ -72,7 +72,7 @@ const config = {
                         type: 'docSidebar',
                         sidebarId: 'tutorialSidebar',
                         position: 'left',
-                        label: 'Profile',
+                        label: 'About',
                     },
                     {to: '/blog', label: 'Blog', position: 'left'},
                     {
@@ -95,6 +95,10 @@ const config = {
                             {
                                 label: 'Open-source',
                                 to: '/docs/category/open-source-projects',
+                            },
+                            {
+                                label: 'Blog',
+                                to: '/blog',
                             },
                             {
                                 label: 'Photography',
