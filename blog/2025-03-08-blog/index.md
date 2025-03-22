@@ -60,46 +60,46 @@ to the [Code Environment Setup](#setting-up-the-environment-for-code) section.
 Sign up for a free database cluster on Couchbase Capella
 Head over to https://cloud.couchbase.com/sign-in and sign up for an account.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vsJC0ugfoh9vpYNapt4-5A.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vsJC0ugfoh9vpYNapt4-5A.png'} style={{width: '100%'}} />
 
 Once you’re in, you will be able to create a new database cluster. Click on the _**Operational**_ tab and click on the
 **_Create Cluster_** button.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZNicgmYNkclgaBIxwRN7Ug.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZNicgmYNkclgaBIxwRN7Ug.png'} style={{width: '100%'}} />
 
 Select the default project named **_My First Project_** and click on the **_Continue_** button.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vfc2cF7IgkjLtNXvls8giQ.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vfc2cF7IgkjLtNXvls8giQ.png'} style={{width: '100%'}} />
 
 You’ll now see the available cluster options. Go ahead and select the **_Free_** option! 😍
 Next, choose your preferred cloud provider (you can select any provider or stick with the default AWS provider).
 Pick a region (or leave it set to the default).
 Finally, click on the Create Cluster button to proceed.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rdWpeSrUaBKC6Y5q8Kd6EA.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rdWpeSrUaBKC6Y5q8Kd6EA.png'} style={{width: '100%'}} />
 
 Give it a couple of minutes, and let the magic happen as your cluster gets deployed.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*no3uHx8cIzVBn7qccYEZ3A.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*no3uHx8cIzVBn7qccYEZ3A.png'} style={{width: '100%'}} />
 
 Once your cluster is deployed, you’ll see the status of your cluster as **_Healthy_**.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Jyu9uiSDSE0o-EQRb53CJA.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Jyu9uiSDSE0o-EQRb53CJA.png'} style={{width: '100%'}} />
 
 Click on the listed cluster to open its details. Here, you can view the version of the deployed Couchbase server, the
 enabled services, as well as the cloud provider and region.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Sv-7wQuAoD0l0bjbI5I7Aw.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Sv-7wQuAoD0l0bjbI5I7Aw.png'} style={{width: '100%'}} />
 
 Click on **_Explore Data_** button. Notice that a default bucket called **_travel-sample_** with some sample data has
 been created
 for you.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z85GsgMBvdR2mrvKUrIjJg.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*z85GsgMBvdR2mrvKUrIjJg.png'} style={{width: '100%'}} />
 
 Browse through the collection to explore the pre-created buckets, scopes and collections available to you.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qr84bs1dvn6m9ZjkNxXvUg.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qr84bs1dvn6m9ZjkNxXvUg.png'} style={{width: '100%'}} />
 
 Open up a sample document from the **_travel-sample_** (bucket) > **_inventory_** (scope) > **_airline_** (collection)
 to see the contents
@@ -109,7 +109,7 @@ The document shown in the image below is about an airline named **_Astraeus_**, 
 used to
 identify an airline or aircraft in communication) is **_FLYSTAR_**.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AmvixYfdNNKC6nXNNXbe4Q.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AmvixYfdNNKC6nXNNXbe4Q.png'} style={{width: '100%'}} />
 
 Navigate to the **_Connect_** tab, and you will see a **_Public Connection String_** that allows you to access the
 Capella cluster
@@ -119,7 +119,7 @@ endpoint from your client application, which looks like the following URL:
 couchbases://cb.uniqueclusteridentifer.cloud.couchbase.com
 ```
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jwnVdj5ZOQMHoggj9JZeJQ.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jwnVdj5ZOQMHoggj9JZeJQ.png'} style={{width: '100%'}} />
 
 To access this cluster endpoint, you need to allow the IP addresses that are permitted to connect. Click on the
 **_Settings_**
@@ -127,26 +127,26 @@ tab, which will take you to the **_Cluster Settings_** view. Then, click on **_A
 under
 **_Networking_**, where you can add allowed IP addresses. Then, click on the **_Add Allowed IP_** button.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tS83AJaNzlBa4Q3aadxohw.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tS83AJaNzlBa4Q3aadxohw.png'} style={{width: '100%'}} />
 
 You can either click on the **_Add Current IP Address_** button to limit access to your cluster to your IP address
 alone, or
 if you’d like to allow access from anywhere, click on the **_Allow Access from Anywhere_** button.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XBgqQoXQQJyYg51Ztugw6w.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XBgqQoXQQJyYg51Ztugw6w.png'} style={{width: '100%'}} />
 
 Confirm that you want to allow the IP addresses.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WjfYQQaiT2WqwNnWvUCyww.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*WjfYQQaiT2WqwNnWvUCyww.png'} style={{width: '100%'}} />
 
 The IP addresses have now been added to the allow list, and the networking is set up.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5BHIp2rqUf7E_GNX8TENoA.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5BHIp2rqUf7E_GNX8TENoA.png'} style={{width: '100%'}} />
 
 Now that you’ve allowed IP addresses, it’s time to create credentials for accessing the cluster using a username and
 password. Click on the **_Cluster Access_** tab in the left pane, then click on the **_Create Cluster Access_** button.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Q5l_EE3gGtxiANdkKilVTQ.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Q5l_EE3gGtxiANdkKilVTQ.png'} style={{width: '100%'}} />
 
 Enter a username of your choice in the **_Cluster Access Name_** text field, and then enter a password of your choice in
 the
@@ -155,11 +155,11 @@ the
 Next, select the bucket, scope, and the read/write permissions you want these credentials to have access to. In this
 example, I’ve granted access to all buckets and scopes with both read and write permissions.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*j2DRB1oDWE78SKpcsIb2SA.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*j2DRB1oDWE78SKpcsIb2SA.png'} style={{width: '100%'}} />
 
 Alright, your cluster access is now set up.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8TY-5DPDfQlwz0-2IYR8Sg.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8TY-5DPDfQlwz0-2IYR8Sg.png'} style={{width: '100%'}} />
 
 One last step: you just need to select the **_Cluster Access Credentials_** that you want to allow to connect to your
 Capella
@@ -167,7 +167,7 @@ cluster. Head over to the **_Connect_** tab, then click on the **_SDKs_** tab in
 **_Cluster Access Credentials you want to use to connect to your Capella cluster_**, select the cluster credentials you
 just created.
 
-<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sIlH51v2HllTzBDV8K-9Aw.png'} />
+<img src={'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*sIlH51v2HllTzBDV8K-9Aw.png'} style={{width: '100%'}} />
 
 Awesome! Your cluster access is all set up, and you’re ready to connect to your Capella cluster using a Couchbase
 client. That’s it — you’re all set and good to go!
