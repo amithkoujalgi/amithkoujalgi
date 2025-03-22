@@ -49,7 +49,8 @@ table {
 .hero__title {
     /*display: none;*/
     font-family: "Merriweather", serif;
-    color: #10387A;
+    color: #303846;
+    margin-top: 15px !important;
 }
 
 .hero__subtitle {
@@ -72,8 +73,9 @@ table {
 }
 
 .home-read-on-button {
-    background-color: #9e9d9d !important;
+    background-color: #303846 !important;
     color: #ffffff !important;
+    font-weight: 400;
 }
 
 .home-small-text {
