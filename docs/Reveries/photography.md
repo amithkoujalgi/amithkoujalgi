@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Photography
+description: Capturing moments through my lens
 ---
 
 # Photography
@@ -38,7 +40,7 @@ import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         This [Bee Eater](https://en.wikipedia.org/wiki/Bee-eater) was enjoying a midday snack. 
         It swooped down to catch an insect with incredible precision, its wings blurring in motion. 
-        These birds are so agile and always make for a spectacular sight when they’re in action.
+        These birds are so agile and always make for a spectacular sight when they're in action.
     </div>
 </div>
 
@@ -46,7 +48,7 @@ import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
     <img src={BeeEater2} style={{ width: '100%' }} alt="Bee Eater 2" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         Another shot of a [Bee Eater](https://en.wikipedia.org/wiki/Bee-eater), this time resting on a branch after its hunt. 
-        The contrast between the bird’s colorful feathers and the earthy background made this one of my favorite shots. 
+        The contrast between the bird's colorful feathers and the earthy background made this one of my favorite shots. 
         It almost looks like it's posing!
     </div>
 </div>
@@ -70,7 +72,7 @@ import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={Parakeet} style={{ width: '100%' }} alt="Parakeet" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        I couldn’t resist snapping a shot of this [Parakeet](https://en.wikipedia.org/wiki/Parakeet). 
+        I couldn't resist snapping a shot of this [Parakeet](https://en.wikipedia.org/wiki/Parakeet). 
         The way it perched on the fence, with the bright green feathers contrasting against the soft background, was picture-perfect. 
         They have such a cheeky, curious nature!
     </div>
@@ -89,6 +91,6 @@ import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
     <img src={Woodpecker} style={{ width: '100%' }} alt="Woodpecker" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         The [Woodpecker](https://en.wikipedia.org/wiki/Woodpecker) was hammering away on the tree, its rhythmic tapping filling the air. 
-        I had to be quick to capture this one, as it didn’t stick around for long. The pattern on its feathers was really mesmerizing in the light.
+        I had to be quick to capture this one, as it didn't stick around for long. The pattern on its feathers was really mesmerizing in the light.
     </div>
 </div>

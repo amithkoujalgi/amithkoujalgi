@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+title: Razorthink Foresight
+description: Powerful demand forecasting & planning software
 ---
 
 # Razorthink Foresight
@@ -17,18 +19,18 @@ Forecasting and Demand Planning that:
 
 #### Connect to any datasource
 
-We’ll incorporate data wherever you have it, in whatever format. Whether it’s in an ERP system, out on a public website,
-or sitting in spreadsheets. We’ll show you how to quickly clean it, map it, and anything else you need to do to get
+We'll incorporate data wherever you have it, in whatever format. Whether it's in an ERP system, out on a public website,
+or sitting in spreadsheets. We'll show you how to quickly clean it, map it, and anything else you need to do to get
 going. Quickly.
 
 #### Use targeted models
 
-Your business is unique. Slapping canned models, however sophisticated, just doesn’t cut it. We craft targeted models
+Your business is unique. Slapping canned models, however sophisticated, just doesn't cut it. We craft targeted models
 for your forecasting and planning needs. And tune it as you grow into automating your processes.
 
 #### Deploy in a week
 
-We’ll have you up and running in a week. Once we have data sources identified, and any uniqueness in your business
+We'll have you up and running in a week. Once we have data sources identified, and any uniqueness in your business
 clarified, we can typically get you your first forecasts and plans within a week.
 
 ### Features
@@ -38,7 +40,7 @@ clarified, we can typically get you your first forecasts and plans within a week
 ##### Connect to any data source
 
 Foresight lets you connect to any datasource. It provides out-of-the-box connectivity to ERP systems such as Netsuite
-and Accumatica, channel API’s such as Amazon and Walmart, demographic and economic data, and social media data. In
+and Accumatica, channel API's such as Amazon and Walmart, demographic and economic data, and social media data. In
 addition, you can quickly add custom data sources or files with minimal effort.
 
 ##### Accept any format
@@ -111,8 +113,8 @@ involve initiating a purchase order, overriding a forecast, or approvals that yo
 
 ##### Use external tools for conversations
 
-Foresight allows you to integrate the conversation API’s with external messaging platforms that allow you to work when
-you’re not connected to the system.
+Foresight allows you to integrate the conversation API's with external messaging platforms that allow you to work when
+you're not connected to the system.
 
 ##### Self contained data
 
@@ -174,4 +176,4 @@ allowing you to understand the impact of product introductions and end of life.
 ##### Manage and switch working forecasts
 
 The working forecast gives you the basis for your operational decisions. This forecast can be switched to a new run of
-the baseline forecast or a scenario that you’d like to use for computations.
+the baseline forecast or a scenario that you'd like to use for computations.

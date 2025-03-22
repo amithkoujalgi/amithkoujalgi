@@ -158,3 +158,16 @@ table {
     text-align: center;
     padding: 20px 10px 10px 10px; /* Add padding for the border */
 }
+
+/* .text--truncate{
+    max-width: 10% !important;
+}
+
+a.card {
+    max-width: 50% !important;
+    display: block !important;
+}
+
+article.col {
+    max-width: 70% !important;
+} */

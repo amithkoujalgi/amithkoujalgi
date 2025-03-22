@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+title: Distributed System Demo
+description: Stock market simulator with distributed architecture
 ---
 
 # Distributed Systems and Observability
@@ -14,4 +16,6 @@ last traded price and more.
 As part of its design, the system incorporates observability features, enabling the tracking of various aspects within
 the system. This enhances transparency and facilitates in-depth analysis of its functioning.
 
-Project Source: https://github.com/amithkoujalgi/distributed-system-observability-demo
+Source Code: 
+
+https://github.com/amithkoujalgi/distributed-system-observability-demo

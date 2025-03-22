@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Razorthink aiOS
+description: A SaaS product to build AI pipelines & solutions
 ---
 
 import ReactPlayer from 'react-player'
@@ -55,7 +57,7 @@ The system automatically adjusts pipeline resources to facilitate seamless deplo
 - Empowers users to solve the toughest edge challenges.
 - Provides a rapid solution creation tool kit. Create, test and deploy high-performance business solutions now.
 - Fosters system learning to help everyone hyper-perform.
-- Flexibility and strength. Can be “driven” by the best and brightest super users.
+- Flexibility and strength. Can be "driven" by the best and brightest super users.
 - Cloud based model allows for frequent deployment of new features/functionality.
 - APIs for interactions
 - Multiple users support with role-based access control
@@ -70,4 +72,3 @@ The system automatically adjusts pipeline resources to facilitate seamless deplo
 ### Product Demo
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/il8eYfvCpLk?si=zWkaFB97xjHZfMTs&rel=0&amp;fs=0&amp;showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
