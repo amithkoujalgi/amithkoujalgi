@@ -175,6 +175,11 @@ const config = {
                                 label: 'Instagram',
                                 position: 'right',
                             },
+                            {
+                                href: 'https://www.youtube.com/@AmithKoujalgi',
+                                label: 'YouTube',
+                                position: 'right',
+                            }
                         ],
                     },
                 ],
