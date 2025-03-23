@@ -49,7 +49,7 @@ table {
 .hero__title {
     /*display: none;*/
     /* font-family: "Merriweather", serif; */
-    font-family: "sans-serif", serif;
+    /* font-family: "sans-serif", serif; */
 
     color: #303846;
     margin-top: 15px !important;
