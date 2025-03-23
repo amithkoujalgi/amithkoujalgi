@@ -8,7 +8,7 @@ sidebar_custom_props:
 
 # Photography
 
-import TailorBird from '@site/static/img/photos/tailor-bird.jpg';
+import IndianWhiteEye from '@site/static/img/photos/indian-white-eye.jpg';
 import SunBird from '@site/static/img/photos/sunbird.jpg';
 import BeeEater from '@site/static/img/photos/bee-eater.jpg';
 import BeeEater2 from '@site/static/img/photos/bee-eater2.jpg';
@@ -17,6 +17,9 @@ import Oriole from '@site/static/img/photos/oriole.jpg';
 import Parakeet from '@site/static/img/photos/parakeet.jpg';
 import TailorBird2 from '@site/static/img/photos/tailor-bird2.jpg';
 import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
+import Woodpecker2 from '@site/static/img/photos/woodpecker2.jpg';
+import Macaque from '@site/static/img/photos/macaque.jpg';
+import EarlyGlow from '@site/static/img/photos/early-glow.jpg';
 import EurasianCoot from '@site/static/img/photos/eurasian-coot.jpg';
 import IndianParadiseFlycatcher from '@site/static/img/photos/indian-paradise-flycatcher.jpg';
 import BrachylophusFasciatus from '@site/static/img/photos/brachylophus-fasciatus.jpg';
@@ -36,6 +39,27 @@ import VictoriaCrownedPigeon from '@site/static/img/photos/victoria-crowned-pige
 import Gibbon from '@site/static/img/photos/gibbon.jpg';
 import ReticulatedPython from '@site/static/img/photos/reticulated-python.jpg';
 import TailorBird3 from '@site/static/img/photos/tailor-bird3.jpg';
+import GreenGlow from '@site/static/img/photos/green-glow.jpg';
+import RoadTrip3 from '@site/static/img/photos/road-trip3.jpg';
+import RoadTrip1 from '@site/static/img/photos/road-trip1.jpg';
+import RoadTrip2 from '@site/static/img/photos/road-trip2.jpg';
+import BloodMoon from '@site/static/img/photos/blood-moon.jpg';
+import BloodMoon2 from '@site/static/img/photos/blood-moon2.jpg';
+import GreenBarbet from '@site/static/img/photos/green-barbet.jpg';
+import LakeGlow from '@site/static/img/photos/lake-glow.jpg';
+import CloudedMonitor from '@site/static/img/photos/clouded-monitor.jpg';
+import PurpleRumpedSunbird2 from '@site/static/img/photos/purple-rumped-sunbird2.jpg';
+import CommonWarthog from '@site/static/img/photos/common-warthog.jpg';
+import YellowBilledBabbler from '@site/static/img/photos/yellow-billed-babbler.jpg';
+import PantherChameleon2 from '@site/static/img/photos/panther-chameleon2.jpg';
+import Meerkat from '@site/static/img/photos/meerkat.jpg';
+import MoonDetailed from '@site/static/img/photos/moon-detailed.jpg';
+import CurvedCeiling from '@site/static/img/photos/curved-ceiling.jpg';
+import LalithaMahal from '@site/static/img/photos/lalitha-mahal.jpg';
+import SpiderlingsNest from '@site/static/img/photos/spiderlings-nest.jpg';
+import UrbanShine from '@site/static/img/photos/urban-shine.jpg';
+import RainbowBridge from '@site/static/img/photos/rainbow-bridge.jpg';
+
 
 My journey into photography began with a simple fascination - capturing the beauty of nature through my lens. Over time,
 this evolved into a passion for wildlife photography, with a special focus on the mesmerizing world of birds. What
@@ -54,7 +78,7 @@ Here are some of my favorite photographs.
 
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px',}}>
-    <img src={TailorBird} style={{ width: '100%'}}  alt="Tailor Bird"/>
+    <img src={IndianWhiteEye} style={{ width: '100%'}}  alt="IndianWhiteEye"/>
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         Spotted this charming [Indian white-eye](https://en.wikipedia.org/wiki/Indian_white-eye) from my balcony. While foraging for food, it hopped nimbly between branches searching for food. In a delightful moment, it landed on a thin twig that couldn't quite support its weight - instead of panicking, the little acrobat gracefully flipped upside down, turning what could have been an awkward stumble into an elegant maneuver. I was fortunate to have my camera ready to capture this playful display of avian agility. A rare sighting, for sure.
     </div>
@@ -63,13 +87,21 @@ Here are some of my favorite photographs.
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={SunBird} style={{ width: '100%' }} alt="Sunbird" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        Captured this stunning Purple [Sunbird](https://en.wikipedia.org/wiki/Sunbird) in an incredible moment - hovering like a hummingbird as it sipped morning dew drops from leaves. The way it maintained perfectly steady flight while moving from leaf to leaf was mesmerizing, its wings beating rapidly to keep it suspended in mid-air like a tiny helicopter. I was fortunate to have my camera ready to capture this remarkable display of natural aerobatics.
+        Captured this stunning Purple [Sunbird](https://en.wikipedia.org/wiki/Sunbird) in an incredible moment - hovering like a hummingbird as it sipped morning dew drops from leaves. The way it maintained perfectly steady flight while moving from leaf to leaf was mesmerizing, its wings beating rapidly to keep it suspended in mid-air like a tiny helicopter. Glad I my camera ready to capture this remarkable display of natural aerobatics.
     </div>
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={IndianParadiseFlycatcher} style={{ width: '100%' }} alt="IndianParadiseFlycatcher" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        An [Indian Paradise Flycatcher](https://en.wikipedia.org/wiki/Indian_paradise_flycatcher).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={PantherChameleon2} style={{ width: '100%' }} alt="Panther Chameleon 2" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        [Panther Chameleon](https://en.wikipedia.org/wiki/Panther_chameleon).
     </div>
 </div>
 
@@ -92,22 +124,34 @@ Here are some of my favorite photographs.
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={Woodpecker} style={{ width: '100%' }} alt="Woodpecker" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        I was lucky to capture this remarkable [White-naped Woodpecker](https://en.wikipedia.org/wiki/White-naped_woodpecker) pair - male and female working in perfect synchronization. Their rhythmic hammering echoed through the trees as they methodically searched for insects beneath the bark. These agile birds are usually quite challenging to photograph as they rapidly spiral up and around tree trunks, so catching both of them together in a single frame was truly special. The image showcases their distinctive features - the male's vibrant red crest contrasting beautifully with the female's more subdued coloring.
+       [White-naped Woodpecker](https://en.wikipedia.org/wiki/White-naped_woodpecker) pair - male and female working in perfect synchronization. Their rhythmic hammering echoed through the trees as they methodically searched for insects beneath the bark. These agile birds are usually quite challenging to photograph as they rapidly spiral up and around tree trunks, so catching both of them together in a single frame was truly special. The image showcases their distinctive features - the male's vibrant red crest contrasting beautifully with the female's more subdued coloring.
     </div>
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={DalmatianPelican} style={{ width: '100%' }} alt="DalmatianPelican" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-
     </div>
-
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={Jellyfish} style={{ width: '100%' }} alt="Jellyfish" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         The [Jellyfish](https://en.wikipedia.org/wiki/Jellyfish) - a fascinating marine creature. Captured this ethereal beauty in Singapore Sea World.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={CommonWarthog} style={{ width: '100%' }} alt="Common Warthog" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        [Common Warthog](https://en.wikipedia.org/wiki/Common_warthog).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={YellowBilledBabbler} style={{ width: '100%' }} alt="Yellow Billed Babbler" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Yellow Billed Babbler](https://en.wikipedia.org/wiki/Yellow-billed_babbler) is a social bird known for its distinctive yellow bill and gregarious nature. Captured this charming bird in a lively group, showcasing their cooperative behavior and vibrant interactions.
     </div>
 </div>
 
@@ -133,9 +177,23 @@ Here are some of my favorite photographs.
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={Woodpecker2} style={{ width: '100%' }} alt="Woodpecker2" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        Another shot of the [White-naped Woodpecker](https://en.wikipedia.org/wiki/White-naped_woodpecker).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={Gibbon} style={{ width: '100%' }} alt="Gibbon" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         [Gibbons](https://en.wikipedia.org/wiki/Gibbon) at Singapore Zoo.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={Macaque} style={{ width: '100%' }} alt="Macaque" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        [Macaque](https://en.wikipedia.org/wiki/Macaque) mother and her infant.   
     </div>
 </div>
 
@@ -145,6 +203,7 @@ Here are some of my favorite photographs.
         A [Reticulated Python](https://en.wikipedia.org/wiki/Reticulated_python) at Singapore Zoo.
     </div>
 </div>
+
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={TailorBird2} style={{ width: '100%' }} alt="Tailor Bird" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
@@ -169,7 +228,14 @@ Here are some of my favorite photographs.
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={EurasianHoopoe} style={{ width: '100%' }} alt="Eurasian Hoopoe" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        The [Eurasian Hoopoe](https://en.wikipedia.org/wiki/Eurasian_hoopoe) is one of nature's most distinctive birds, and I was thrilled to photograph this one probing the ground for insects. Its spectacular crest and zebra-striped wings make it unmistakable. 
+        The [Eurasian Hoopoe](https://en.wikipedia.org/wiki/Eurasian_hoopoe).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={PurpleRumpedSunbird2} style={{ width: '100%' }} alt="Purple Rumped Sunbird 2" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Purple Rumped Sunbird 2](https://en.wikipedia.org/wiki/Purple_rumped_sunbird).
     </div>
 </div>
 
@@ -184,6 +250,13 @@ Here are some of my favorite photographs.
     <img src={OrbWeaverSpider} style={{ width: '100%' }} alt="Orb-weaver Spider" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         An [Orb-weaver Spider](https://en.wikipedia.org/wiki/Orb-weaver_spider) caught in the act of web maintenance. These master architects create some of the most impressive structures in nature. I was able to capture this one as it meticulously repaired its web, showcasing the incredible precision and patience these arachnids possess. The early morning dew highlighted the intricate patterns of its web.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={Meerkat} style={{ width: '100%' }} alt="Meerkat" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        A [Meerkat](https://en.wikipedia.org/wiki/Meerkat).
     </div>
 </div>
 
@@ -213,6 +286,13 @@ Here are some of my favorite photographs.
     </div>
 </div>
 
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={CloudedMonitor} style={{ width: '100%' }} alt="Clouded Monitor" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Clouded Monitor](https://en.wikipedia.org/wiki/Clouded_monitor).
+    </div>
+</div>
+
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={Mongoose} style={{ width: '100%' }} alt="Mongoose" />
@@ -238,5 +318,107 @@ Here are some of my favorite photographs.
     <img src={IndianRoller} style={{ width: '100%' }} alt="Indian Roller" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         The [Indian Roller](https://en.wikipedia.org/wiki/Indian_roller) is known for its vibrant blue and brown plumage. Captured this stunning bird in flight, showcasing its beautiful colors.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={GreenBarbet} style={{ width: '100%' }} alt="Green Barbet" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Green Barbet](https://en.wikipedia.org/wiki/Green_barbet).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={EarlyGlow} style={{ width: '100%' }} alt="Early Glow" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={GreenGlow} style={{ width: '100%' }} alt="Green Glow" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={RoadTrip3} style={{ width: '100%' }} alt="Road Trip 3" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={RoadTrip1} style={{ width: '100%' }} alt="Road Trip 1" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={RoadTrip2} style={{ width: '100%' }} alt="Road Trip 2" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+    </div>
+</div>
+
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={BloodMoon} style={{ width: '100%' }} alt="Blood Moon" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Blood Moon](https://en.wikipedia.org/wiki/Lunar_eclipse).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={BloodMoon2} style={{ width: '100%' }} alt="Blood Moon 2" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+       Phases of the [Blood Moon](https://en.wikipedia.org/wiki/Lunar_eclipse).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={LakeGlow} style={{ width: '100%' }} alt="Lake Glow" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        [Lake Glow](https://en.wikipedia.org/wiki/Golden_hour_(photography)).
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={MoonDetailed} style={{ width: '100%' }} alt="Moon Detailed" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        A decent attempt to capture details of the moon – its craters and surface features detail.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={CurvedCeiling} style={{ width: '100%' }} alt="Curved Ceiling" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The Curved Ceiling – The Shoppes, Marina Bay Sands, Singapore.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={LalithaMahal} style={{ width: '100%' }} alt="Lalitha Mahal" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        A contrasting view of [Lalitha Mahal](https://en.wikipedia.org/wiki/Lalitha_Mahal) framed by lush green trees in Mysore, India.    
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={SpiderlingsNest} style={{ width: '100%' }} alt="Spiderlings Nest" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        _Broodmother_ – A nest with a mother spider and her spiderlings.    
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={UrbanShine} style={{ width: '100%' }} alt="Urban Shine" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Urban Shine](https://en.wikipedia.org/wiki/Urban_photography) captures the vibrant energy and dynamic atmosphere of city life. This photograph highlights the interplay of light and shadow, creating a striking visual contrast.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={RainbowBridge} style={{ width: '100%' }} alt="Rainbow Bridge" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        The [Rainbow Bridge](https://en.wikipedia.org/wiki/Rainbow_Bridge) is an iconic structure known for its stunning design and vibrant colors. Captured this beautiful bridge, highlighting its architectural elegance and the way it lights up the night sky.
     </div>
 </div>

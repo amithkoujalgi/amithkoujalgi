@@ -19,7 +19,7 @@ gantt
 
     section Early Career (2012-2015)
     Graduated from University         :done, 2012-06-01, 30d
-    Intern at Razorthink              :a1, 2012-07-01, 6M
+    Joined as an Intern at Razorthink              :a1, 2012-07-01, 6M
     Full-time Software Engineer       :a2, after a1, 2y
     Senior Software Engineer          :a3, after a2, 3y
 
@@ -40,11 +40,11 @@ gitGraph TB:
     commit id:"Graduated from University" tag:"2012"
     branch Razorthink
     checkout Razorthink
-    commit id:"Intern at Razorthink" tag:"2012"
-    commit id:"Full-time Software Engineer" tag:"2013"
+    commit id:"Joined as an Intern at Razorthink" tag:"2012"
+    commit id:"Full-time Software Engineer" tag:"2012"
     commit id:"Senior Software Engineer" tag:"2015"
     commit id:"Tech Lead" tag:"2018"
-    commit id:"Technical Architect" tag:"2020"
+    commit id:"Technical Architect" tag:"2021"
     commit id:"Left Razorthink" tag:"2024"
 
     checkout main

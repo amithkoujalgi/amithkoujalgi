@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import TailorBird from '@site/static/img/photos/tailor-bird.jpg';
+import IndianWhiteEye from '@site/static/img/photos/indian-white-eye.jpg';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -18,7 +18,7 @@ function HomepageHeader() {
 
             <div className="center-container">
                 <div className="content-box">
-                    <img src={TailorBird} alt="Tailor Bird"/>
+                    <img src={IndianWhiteEye} alt="Indian White-eye"/>
                     <p className="hero__subtitle">{siteConfig.tagline}</p>
                 </div>
             </div>
