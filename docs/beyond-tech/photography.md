@@ -28,79 +28,61 @@ Here are some of my favorite photographs.
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px',}}>
     <img src={TailorBird} style={{ width: '100%'}}  alt="Tailor Bird"/>
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        Spotted this little guy from my balcony – an [Indian white-eye](https://en.wikipedia.org/wiki/Indian_white-eye). 
-        It was hanging upside down on a delicate twig, and it really popped against all the green leaves. 
-        The way they framed the bird was just perfect, and the depth of field looked amazing. Luckily, 
-        I had my camera on hand, and this little dude stuck around long enough for me to grab a good shot.  
+        Spotted this charming [Indian white-eye](https://en.wikipedia.org/wiki/Indian_white-eye) from my balcony. While foraging for food, it hopped nimbly between branches searching for food. In a delightful moment, it landed on a thin twig that couldn't quite support its weight - instead of panicking, the little acrobat gracefully flipped upside down, turning what could have been an awkward stumble into an elegant maneuver. I was fortunate to have my camera ready to capture this playful display of avian agility. A rare sighting, for sure.
     </div>
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={SunBird} style={{ width: '100%' }} alt="Sunbird" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        Spotted this [Sunbird](https://en.wikipedia.org/wiki/Sunbird) perched on a branch early in the morning. 
-        The sun was just beginning to rise, and the light hit its vibrant plumage in such a way that it almost seemed to glow. 
-        Their iridescent feathers always amaze me, and I was lucky enough to get this shot while it was still calm.
+        Captured this stunning Purple [Sunbird](https://en.wikipedia.org/wiki/Sunbird) in an incredible moment - hovering like a hummingbird as it sipped morning dew drops from leaves. The way it maintained perfectly steady flight while moving from leaf to leaf was mesmerizing, its wings beating rapidly to keep it suspended in mid-air like a tiny helicopter. I was fortunate to have my camera ready to capture this remarkable display of natural aerobatics.
     </div>
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={BeeEater} style={{ width: '100%' }} alt="Bee Eater" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        This [Bee Eater](https://en.wikipedia.org/wiki/Bee-eater) was enjoying a midday snack. 
-        It swooped down to catch an insect with incredible precision, its wings blurring in motion. 
-        These birds are so agile and always make for a spectacular sight when they're in action.
-    </div>
-</div>
-
-<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
-    <img src={BeeEater2} style={{ width: '100%' }} alt="Bee Eater 2" />
-    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        Another shot of a [Bee Eater](https://en.wikipedia.org/wiki/Bee-eater), this time resting on a branch after its hunt. 
-        The contrast between the bird's colorful feathers and the earthy background made this one of my favorite shots. 
-        It almost looks like it's posing!
-    </div>
-</div>
-
-<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
-    <img src={Kf} style={{ width: '100%' }} alt="Kingfisher" />
-    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        I spotted this striking [Kingfisher](https://en.wikipedia.org/wiki/Kingfisher) while walking along a stream. 
-        It darted into the water and grabbed a fish in the blink of an eye. The vivid blue feathers were incredible against the calm water backdrop.
-    </div>
-</div>
-
-<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
-    <img src={Oriole} style={{ width: '100%' }} alt="Oriole" />
-    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        The [Oriole](https://en.wikipedia.org/wiki/Oriole) I spotted was perched high up in a tree, its bright yellow and black feathers standing out in the thick foliage. 
-        It seemed so at ease, taking its time to survey the surroundings before hopping to a different branch.
-        Captured in a phone.
-    </div>
-</div>
-
-<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
-    <img src={Parakeet} style={{ width: '100%' }} alt="Parakeet" />
-    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        I couldn't resist snapping a shot of this [Parakeet](https://en.wikipedia.org/wiki/Parakeet). 
-        The way it perched on the fence, with the bright green feathers contrasting against the soft background, was picture-perfect. 
-        They have such a cheeky, curious nature!
-    </div>
-</div>
-
-<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
-    <img src={TailorBird2} style={{ width: '100%' }} alt="Tailor Bird" />
-    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        Another shot of the [Tailor Bird](https://en.wikipedia.org/wiki/Tailorbird), this time perched on a twig. 
-        The delicate, almost intricate way it weaves its nest makes this bird fascinating to watch. 
-        The light filtering through the leaves created a soft glow around it, making this shot feel magical.
+        This [Bee Eater](https://en.wikipedia.org/wiki/Asian_green_bee-eater) demonstrated its remarkable hunting prowess right before my lens. 
+        With laser-like precision, it swooped down to snatch a bee mid-flight, then gracefully alighted on a nearby branch to savor its catch. 
+        The entire sequence - from the lightning-fast dive to the triumphant perch - showcased the incredible agility and hunting skills these birds are renowned for.
     </div>
 </div>
 
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
     <img src={Woodpecker} style={{ width: '100%' }} alt="Woodpecker" />
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
-        The [Woodpecker](https://en.wikipedia.org/wiki/Woodpecker) was hammering away on the tree, its rhythmic tapping filling the air. 
-        I had to be quick to capture this one, as it didn't stick around for long. The pattern on its feathers was really mesmerizing in the light.
+        I was fortunate to capture this remarkable [White-naped Woodpecker](https://en.wikipedia.org/wiki/White-naped_woodpecker) pair - male and female working in perfect synchronization. Their rhythmic hammering echoed through the trees as they methodically searched for insects beneath the bark. These agile birds are usually quite challenging to photograph as they rapidly spiral up and around tree trunks, so catching both of them together in a single frame was truly special. The image showcases their distinctive features - the male's vibrant red crest contrasting beautifully with the female's more subdued coloring.
+    </div>
+</div>
+
+<!-- <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={Kf} style={{ width: '100%' }} alt="Kingfisher" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        I spotted this striking [Kingfisher](https://en.wikipedia.org/wiki/Kingfisher) while walking along a stream. 
+        It darted into the water and grabbed a fish in the blink of an eye. The vivid blue feathers were incredible against the calm water backdrop.
+    </div>
+</div> -->
+
+
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={Parakeet} style={{ width: '100%' }} alt="Parakeet" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        This vibrant [Parakeet](https://en.wikipedia.org/wiki/Parakeet) became a regular evening visitor, arriving just before sunset to feast on seeds. It was mesmerizing to watch as it demonstrated remarkable dexterity, using its curved beak and nimble foot in perfect coordination to methodically extract seeds from their pods. I found myself captivated by this daily ritual, observing how it would carefully work through each pod with practiced precision, making the most of nature's bounty.
+    </div>
+</div>
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={TailorBird2} style={{ width: '100%' }} alt="Tailor Bird" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        Captured this [Tailor Bird](https://en.wikipedia.org/wiki/Tailorbird) from an unusual vantage point on my terrace. Looking down through the canopy, I spotted it perched delicately on a slender twig.
+    </div>
+</div>
+
+
+<div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px', }}>
+    <img src={Oriole} style={{ width: '100%' }} alt="Oriole" />
+    <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
+        A beautiful [Oriole](https://en.wikipedia.org/wiki/Oriole) perched high in a tree, its bright yellow and black feathers catching the light. I managed to capture this fleeting moment with my phone camera just before it flew away.
     </div>
 </div>

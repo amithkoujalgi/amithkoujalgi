@@ -53,6 +53,12 @@ const config = {
                     customCss: './src/css/custom.css',
                 },
             }),
+            {
+                gtag: {
+                    trackingID: 'G-FWTNXKHYWK',
+                    anonymizeIP: true,
+                },
+            },
         ],
     ],
 
