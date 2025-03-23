@@ -52,13 +52,11 @@ const config = {
                 theme: {
                     customCss: './src/css/custom.css',
                 },
-            }),
-            {
                 gtag: {
                     trackingID: 'G-FWTNXKHYWK',
-                    anonymizeIP: true,
+                    anonymizeIP: false,
                 },
-            },
+            })
         ],
     ],
 
