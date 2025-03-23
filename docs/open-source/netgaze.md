@@ -2,6 +2,8 @@
 sidebar_position: 3
 title: NetGaze
 description: Network observability for microservices
+sidebar_custom_props: 
+  myEmoji: 🔍
 ---
 
 # NetGaze

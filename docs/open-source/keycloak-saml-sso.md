@@ -2,6 +2,8 @@
 sidebar_position: 3
 title: Keycloak SAML SSO
 description: SAML-based Single Sign-On with Keycloak
+sidebar_custom_props: 
+  myEmoji: 🔐
 ---
 
 # Keycloak SAML SSO

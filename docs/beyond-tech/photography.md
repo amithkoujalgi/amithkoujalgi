@@ -2,6 +2,8 @@
 sidebar_position: 1
 title: Photography
 description: Capturing moments through my lens
+sidebar_custom_props: 
+  myEmoji: 📸
 ---
 
 # Photography

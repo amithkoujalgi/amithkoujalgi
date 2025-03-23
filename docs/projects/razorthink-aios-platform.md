@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 title: Razorthink aiOS
-description: A SaaS product to build AI pipelines & solutions
+description: Platform to build AI pipelines & solutions
+sidebar_custom_props: 
+  myEmoji: ⚡
 ---
 
 import ReactPlayer from 'react-player'

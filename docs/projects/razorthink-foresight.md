@@ -1,7 +1,9 @@
 ---
 sidebar_position: 2
 title: Razorthink Foresight
-description: Powerful demand forecasting & planning software
+description: Powerful demand forecast & planning tech
+sidebar_custom_props: 
+  myEmoji: 📊
 ---
 
 # Razorthink Foresight

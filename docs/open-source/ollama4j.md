@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 title: Ollama4j
-description: A Java library for interacting with Ollama LLM server
+description: Java library to interact with Ollama LLM server
+sidebar_custom_props: 
+  myEmoji: 🦾
 ---
 
 # Ollama4j

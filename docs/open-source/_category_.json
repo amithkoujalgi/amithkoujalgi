@@ -3,6 +3,6 @@
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Open-Source projects built and contributed to."
+    "description": "A collection of open-source projects focused on distributed systems, observability, monitoring, workflow orchestration, and AI/LLM implementations. These projects demonstrate practical implementations of microservices architecture, system resource monitoring, network visualization, data pipelines, and local LLM deployments using Ollama. The projects showcase both traditional distributed systems and modern AI integration approaches."
   }
 }

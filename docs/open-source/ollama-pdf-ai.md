@@ -2,6 +2,8 @@
 sidebar_position: 2
 title: PDF AI with Ollama
 description: PDF document interaction using LLMs
+sidebar_custom_props: 
+  myEmoji: 🤖
 ---
 
 # PDF AI

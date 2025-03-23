@@ -2,6 +2,8 @@
 sidebar_position: 3
 title: BrainBlox
 description: Smart email app with AI features
+sidebar_custom_props: 
+  myEmoji: 📧
 ---
 
 # BrainBlox

@@ -2,6 +2,8 @@
 sidebar_position: 7
 title: System Stats Monitor
 description: System resource monitor web UI in Python
+sidebar_custom_props: 
+  myEmoji: 📊
 ---
 
 # sys-stats

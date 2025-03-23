@@ -1,7 +1,9 @@
 ---
 sidebar_position: 4
 title: Distributed System Demo
-description: Stock market simulator with distributed architecture
+description: Stock market simulation with distributed arch
+sidebar_custom_props: 
+  myEmoji: 📈
 ---
 
 # Distributed Systems and Observability

@@ -10,7 +10,57 @@ I have extensive experience mentoring newer developers and leading teams to crea
 Tech is my jam - I'm always tinkering with new tools and sharing what I build through [open-source projects](/docs/category/open-source-projects). 
 Beyond coding, I'm passionate about photography and love capturing beautiful moments. Check out some of my work in my [photography portfolio](/docs/beyond-tech/photography).
 
+<!-- ```mermaid
+gantt
+    title My Career Journey
+    dateFormat YYYY-MM-DD
+
+    section Early Career (2012-2015)
+    Graduated from University         :done, 2012-06-01, 30d
+    Intern at Razorthink              :a1, 2012-07-01, 6M
+    Full-time Software Engineer       :a2, after a1, 2y
+    Senior Software Engineer          :a3, after a2, 3y
+
+    section Growth Years (2016-2020)
+    Tech Lead                         :b1, 2018-01-01, 2y
+    Technical Architect               :b2, after b1, 4y
+
+    section Current (2021-Present)
+    Left Razorthink                   :c1, 2024-03-01, 1d
+    Lead Software Engineer - AI (Couchbase) :c2, after c1, 1y
+``` -->
+
+### Professional Journey
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
+gitGraph TB:
+    commit id:"Graduated from University" tag:"2012"
+    branch Razorthink
+    checkout Razorthink
+    commit id:"Intern at Razorthink" tag:"2012"
+    commit id:"Full-time Software Engineer" tag:"2013"
+    commit id:"Senior Software Engineer" tag:"2015"
+    commit id:"Tech Lead" tag:"2018"
+    commit id:"Technical Architect" tag:"2020"
+    commit id:"Left Razorthink" tag:"2024"
+
+    checkout main
+    merge Razorthink
+    commit id:" " tag:"2024"
+
+    branch Couchbase
+    checkout Couchbase
+    commit id:"Joined Couchbase as Lead Software Engineer - AI" tag:"2024"
+
+    checkout main
+    merge Couchbase
+
+```
+
 ### Work Experience
+
+#### At Razorthink
 
 - Led the development of B2B platforms, including Razorthink aiOS (a platform for building and running custom AI
   solutions) and Foresight AI (an AI-based demand forecasting platform catering to FMCG companies).

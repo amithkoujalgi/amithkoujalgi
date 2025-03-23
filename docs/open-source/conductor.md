@@ -2,6 +2,8 @@
 sidebar_position: 5
 title: Workflow Orchestration
 description: Netflix Conductor with Spring Boot
+sidebar_custom_props: 
+  myEmoji: 🔄
 ---
 
 # Workflow Orchestration with Conductor

@@ -2,6 +2,8 @@
 sidebar_position: 6
 title: SCDF with Kafka
 description: Spring Cloud Data Flow + Kafka Binder
+sidebar_custom_props: 
+  myEmoji: 🌊
 ---
 
 # Spring Cloud Data Flow with Kafka-Binder

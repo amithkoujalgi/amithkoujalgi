@@ -177,3 +177,15 @@ article.col {
 .markdown h1:first-child {
     font-family: sans-serif;
 }
+
+.docusaurus-mermaid-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.docusaurus-mermaid-container svg {
+    width: 70% !important;
+    height: 100% !important;
+}

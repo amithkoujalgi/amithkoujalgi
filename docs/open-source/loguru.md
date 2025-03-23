@@ -2,6 +2,8 @@
 sidebar_position: 3
 title: Loguru AI
 description: Python CLI tool for LLM-powered log analysis
+sidebar_custom_props: 
+  myEmoji: 📋
 ---
 
 # Loguru AI
