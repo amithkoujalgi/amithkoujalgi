@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+import RazorthinkLogo from '@site/static/img/razorthink-logo.jpeg';
+
 # About
 
 Hey 👋! I'm a software engineer who's been building cool [software products](/docs/category/projects) for over a decade.
@@ -60,7 +62,9 @@ gitGraph TB:
 
 ### Work Experience
 
-#### At Razorthink
+#### At [Razorthink](https://www.linkedin.com/company/razorthink/)
+
+<img src={RazorthinkLogo} style={{ width: '10%'}}  alt="Razorthink Logo"/>
 
 - Led the development of B2B platforms, including Razorthink aiOS (a platform for building and running custom AI
   solutions) and Foresight AI (an AI-based demand forecasting platform catering to FMCG companies).
@@ -86,6 +90,10 @@ gitGraph TB:
 
 ### Skills
 
+Java, Spring, Python, Kafka, Apache Spark, Elasticsearch, PostgreSQL, MongoDB, Cassandra, Redis, AWS, Azure, Docker, Terraform, Keycloak, Kong, Nginx, Grafana, Graylog, Jenkins, TeamCity, Apache ActiveMQ, Netflix Conductor, Celery, Hadoop, JUnit, Selenium, Apache JMeter.
+
+<!-- ### Skills
+
 | Skill Category                        | Technologies                                                        |
 |---------------------------------------|---------------------------------------------------------------------|
 | **Programming Languages**             | Java, Python                                                        |
@@ -98,4 +106,4 @@ gitGraph TB:
 | **Cloud Infrastructure**              | AWS, Azure                                                          |
 | **Miscellaneous Tools / Services**    | Terraform, Keycloak, Kong, Nginx, Graylog, Grafana, Jenkins (CI/CD) |
 | **Testing Tools and Frameworks**      | JUnit, Selenium, Apache JMeter                                      |
-| **UI/UX (Level: Basic)**              | HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax, Socket.io           |
+| **UI/UX (Level: Basic)**              | HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax, Socket.io           | -->
