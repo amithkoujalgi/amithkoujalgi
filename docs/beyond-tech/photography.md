@@ -16,6 +16,13 @@ import Parakeet from '@site/static/img/photos/parakeet.jpg';
 import TailorBird2 from '@site/static/img/photos/tailor-bird2.jpg';
 import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
 
+My journey into photography began with a simple fascination - capturing the beauty of nature through my lens. Over time, this evolved into a passion for wildlife photography, with a special focus on the mesmerizing world of birds. What started as casual birdwatching transformed into something much more meaningful. I found myself drawn to their vibrant colors, graceful movements, and incredible variety. Beyond just birds, I have an eye for the patterns, simplicity, and minimalism found in nature. Through photography, I've learned to slow down and truly appreciate nature's intricate designs, finding beauty in both the dramatic moments and subtle details.
+
+While my camera gear is simple, I've discovered that the real magic lies in patience, timing, and understanding your subject. My entry-level [Nikon D3300](https://en.wikipedia.org/wiki/Nikon_D3300) camera paired with a [Nikkor 200-500mm lens](https://www.nikon.co.in/af-s-nikkor-200-500mm-f56e-ed-vr) has taught me that it's not about having the most expensive equipment - it's about developing an eye for the perfect moment, waiting patiently and being ready when it comes.
+
+Here are some of my favorite photographs.
+
+
 <div style={{ border: '1px solid black', marginBottom: '30px', paddingLeft: '10px', paddingRight: '10px', paddingTop: '10px',}}>
     <img src={TailorBird} style={{ width: '100%'}}  alt="Tailor Bird"/>
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
@@ -66,6 +73,7 @@ import Woodpecker from '@site/static/img/photos/woodpecker.jpg';
     <div style={{ paddingRight: '10px', fontSize: '0.8em' }}>
         The [Oriole](https://en.wikipedia.org/wiki/Oriole) I spotted was perched high up in a tree, its bright yellow and black feathers standing out in the thick foliage. 
         It seemed so at ease, taking its time to survey the surroundings before hopping to a different branch.
+        Captured in a phone.
     </div>
 </div>
 

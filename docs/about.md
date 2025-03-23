@@ -5,10 +5,10 @@ sidebar_position: 1
 # About
 
 Hey 👋! I'm a software engineer who's been building cool [software products](/docs/category/projects) for over a decade.
-I love creating awesome solutions that help big companies work better and smarter.
-I'm passionate about mentoring newer developers and leading teams to build amazing things.
+I love creating impactful software products and solutions.
+I have extensive experience mentoring newer developers and leading teams to create innovative solutions.
 Tech is my jam - I'm always tinkering with new tools and sharing what I build through [open-source projects](/docs/category/open-source-projects). 
-Beyond coding, I'm passionate about photography and love capturing beautiful moments. Check out some of my work in my [photography portfolio](/docs/reveries/photography).
+Beyond coding, I'm passionate about photography and love capturing beautiful moments. Check out some of my work in my [photography portfolio](/docs/beyond-tech/photography).
 
 ### Work Experience
 

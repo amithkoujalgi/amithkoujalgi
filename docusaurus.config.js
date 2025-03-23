@@ -74,7 +74,41 @@ const config = {
                         position: 'left',
                         label: 'About',
                     },
-                    {to: '/blog', label: 'Blog', position: 'left'},
+                    {
+                        type: 'dropdown',
+                        label: 'Work', 
+                        position: 'left',
+                        items: [
+                            {
+                                to: '/docs/category/projects',
+                                label: 'Projects'
+                            },
+                            {
+                                to: '/docs/category/open-source-projects',
+                                label: 'Open Source'
+                            },
+                        ],
+                    },
+                    {
+                        to: '/blog',
+                        label: 'Blog',
+                        position: 'left'
+                    },
+                    {
+                        type: 'dropdown',
+                        label: 'Beyond Tech',
+                        position: 'left', 
+                        items: [
+                            {
+                                to: '/docs/beyond-tech/photography',
+                                label: 'Photography'
+                            },
+                            {
+                                to: '/docs/beyond-tech/music',
+                                label: 'Music'
+                            },
+                        ],
+                    },
                     {
                         href: 'https://github.com/amithkoujalgi',
                         label: 'GitHub',
@@ -102,7 +136,7 @@ const config = {
                             },
                             {
                                 label: 'Photography',
-                                to: '/docs/reveries/photography',
+                                to: '/docs/beyond-tech/photography',
                             },
                         ],
                     },

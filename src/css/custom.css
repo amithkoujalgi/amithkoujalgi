@@ -48,7 +48,9 @@ table {
 
 .hero__title {
     /*display: none;*/
-    font-family: "Merriweather", serif;
+    /* font-family: "Merriweather", serif; */
+    font-family: "sans-serif", serif;
+
     color: #303846;
     margin-top: 15px !important;
 }
@@ -79,7 +81,7 @@ table {
 }
 
 .home-small-text {
-    font-size: 15px;
+    font-size: 20px;
     color: #4e4e4e;
     font-style: normal;
 }
@@ -171,3 +173,7 @@ a.card {
 article.col {
     max-width: 70% !important;
 } */
+
+.markdown h1:first-child {
+    font-family: sans-serif;
+}
