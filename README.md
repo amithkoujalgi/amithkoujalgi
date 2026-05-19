@@ -149,7 +149,7 @@
 -->
 
 <div align="center" style="border: 2px solid #000; padding: 10px;">
-  <div>Featured in developers list in a AI talk in Cern by Lize Raes.</div>
+  <div>Featured in a AI talk in Cern by Lize Raes.</div>
   <a href="https://youtu.be/LIfpKwCig14" target="_blank">
     <img width="600" src="https://github.com/user-attachments/assets/21a3c88a-18c6-45a0-accc-6b48bb252255" alt="Java Meets AI: How to build LLM-Powered Applications with LangChain4j by Lize Raes"/>
   </a>
