@@ -12,7 +12,7 @@
 <table align="center">
    <tr>
       <td><img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
-      <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a></td>
+      <td>Author of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a></td>
       <td>Java client to access local LLMs via Ollama API</td>
       <td>
          <img src="https://img.shields.io/github/stars/ollama4j/ollama4j" alt="GitHub stars" />
@@ -32,7 +32,7 @@
    </tr>
    <tr>
       <td><img width="50" src="https://github.com/ollama4j/Doota/blob/main/src/main/webui/public/logo.png?raw=true" alt="Doota Logo"/></td>
-      <td>Maintainer of <a href="https://github.com/ollama4j/doota">Doota</a></td>
+      <td>Author of <a href="https://github.com/ollama4j/doota">Doota</a></td>
       <td>An agentic system for Ollama with built-in tools and an autonomous agent loop to power your private AI ecosystem.</td>
       <td>
          <img src="https://img.shields.io/github/stars/ollama4j/doota" alt="GitHub stars" />
@@ -43,7 +43,7 @@
    </tr>
    <tr>
       <td><img width="50" src="https://pycasa.github.io/Pycasa/assets/logo-BLf8NfcH.png" alt="Pycasa Logo"/></td>
-      <td>Maintainer of <a href="https://github.com/Pycasa/Pycasa">Pycasa</a></td>
+      <td>Author of <a href="https://github.com/Pycasa/Pycasa">Pycasa</a></td>
       <td>Pycasa is a self-hosted AI photo manager that runs entirely on your own machine.</td>
       <td>
          <img src="https://img.shields.io/github/stars/Pycasa/Pycasa" alt="GitHub stars" />
