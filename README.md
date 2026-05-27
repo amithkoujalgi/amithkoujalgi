@@ -31,7 +31,7 @@
       </td>
    </tr>
    <tr>
-      <td>3. <img width="50" src="https://private-user-images.githubusercontent.com/1876165/597097639-e32d88a6-dde5-4007-9018-a1535cba3b4d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk4NjQ3MzYsIm5iZiI6MTc3OTg2NDQzNiwicGF0aCI6Ii8xODc2MTY1LzU5NzA5NzYzOS1lMzJkODhhNi1kZGU1LTQwMDctOTAxOC1hMTUzNWNiYTNiNGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MjdUMDY0NzE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDk5OGVkMmFhNThlZjQ2ZTMzYzM3MzAxMTRkMTM1MGZmM2JiYmI3MjUyNDBhMmU5Y2Q4MTI5N2YzNDlkY2NkNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGcG5nIn0.ptECcxVkXh4Jdtm6PI4SMs3I1OWY93IPqP-NFgonnqM" alt="Doota Logo"/></td>
+      <td>3. <img width="50" src="https://github.com/ollama4j/Doota/blob/main/src/main/webui/public/logo.png?raw=true" alt="Doota Logo"/></td>
       <td>Maintainer of <a href="https://github.com/ollama4j/doota">Doota</a></td>
       <td>An agentic system for Ollama with built-in tools and an autonomous agent loop to power your private AI ecosystem.</td>
       <td>
