@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋, I'm Amith Koujalgi</h1>
-<h3 align="center">Software Engineer. Tech Enthusiast.</h3>
+<h3 align="center">Software Engineer. Builder.</h3>
 
 
 <!--
