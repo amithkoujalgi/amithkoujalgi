@@ -41,6 +41,20 @@
          <img src="https://img.shields.io/github/contributors/ollama4j/doota?style=social" alt="Contributors" />
       </td>
    </tr>
+
+   <tr>
+      <td><img width="50" src="https://pycasa.github.io/Pycasa/assets/logo-BLf8NfcH.png" alt="Pycasa Logo"/></td>
+      <td>Maintainer of <a href="https://github.com/Pycasa/Pycasa">Pycasa</a></td>
+      <td>Pycasa is a self-hosted AI photo manager that runs entirely on your own machine.</td>
+      <td>
+         <img src="https://img.shields.io/github/stars/Pycasa/Pycasa" alt="GitHub stars" />
+         <img src="https://img.shields.io/github/forks/Pycasa/Pycasa" alt="GitHub forks" />
+         <img src="https://img.shields.io/github/watchers/Pycasa/Pycasa" alt="GitHub watchers" />
+         <img src="https://img.shields.io/github/contributors/Pycasa/Pycasa?style=social" alt="Contributors" />
+      </td>
+   </tr>
+
+   
    <tr>
       <td><img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
