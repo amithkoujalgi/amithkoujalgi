@@ -41,7 +41,6 @@
          <img src="https://img.shields.io/github/contributors/ollama4j/doota?style=social" alt="Contributors" />
       </td>
    </tr>
-
    <tr>
       <td><img width="50" src="https://pycasa.github.io/Pycasa/assets/logo-BLf8NfcH.png" alt="Pycasa Logo"/></td>
       <td>Maintainer of <a href="https://github.com/Pycasa/Pycasa">Pycasa</a></td>
@@ -51,18 +50,6 @@
          <img src="https://img.shields.io/github/forks/Pycasa/Pycasa" alt="GitHub forks" />
          <img src="https://img.shields.io/github/watchers/Pycasa/Pycasa" alt="GitHub watchers" />
          <img src="https://img.shields.io/github/contributors/Pycasa/Pycasa?style=social" alt="Contributors" />
-      </td>
-   </tr>
-
-   
-   <tr>
-      <td><img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
-      <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
-      <td>CLI based log intelligence tool powered by LLMs</td>
-      <td>
-         <a href="https://github.com/Loguru-AI/Loguru-CLI/releases" target="_blank"><img src="https://img.shields.io/badge/releases_on-github-blue?style=flat" alt="Releases on GitHub"/></a>
-         <a href="https://pypi.org/project/loguru-cli/" target="_blank"><img src="https://img.shields.io/badge/releases_on-PyPi-blue?style=flat" alt="Releases on PyPi"/></a>
-         <img src="https://img.shields.io/github/stars/Loguru-AI/Loguru-CLI" alt="GitHub stars" />
       </td>
    </tr>
    <tr>
