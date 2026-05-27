@@ -11,7 +11,7 @@
 
 <table align="center">
    <tr>
-      <td>1. <img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
+      <td><img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Logo"/></td>
       <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j">Ollama4j</a></td>
       <td>Java client to access local LLMs via Ollama API</td>
       <td>
@@ -22,7 +22,7 @@
       </td>
    </tr>
    <tr>
-      <td>2. <img width="50" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="Ollama PDF Bot Logo"/></td>
+      <td><img width="50" src="https://raw.githubusercontent.com/amithkoujalgi/ollama-pdf-bot/main/.demo-stuff/logo.jpeg" alt="Ollama PDF Bot Logo"/></td>
       <td>Author of <a href="https://github.com/amithkoujalgi/ollama-pdf-bot">Ollama PDF Bot</a></td>
       <td>Chat with your PDFs using local LLMs served by Ollama</td>
       <td>
@@ -31,7 +31,7 @@
       </td>
    </tr>
    <tr>
-      <td>3. <img width="50" src="https://github.com/ollama4j/Doota/blob/main/src/main/webui/public/logo.png?raw=true" alt="Doota Logo"/></td>
+      <td><img width="50" src="https://github.com/ollama4j/Doota/blob/main/src/main/webui/public/logo.png?raw=true" alt="Doota Logo"/></td>
       <td>Maintainer of <a href="https://github.com/ollama4j/doota">Doota</a></td>
       <td>An agentic system for Ollama with built-in tools and an autonomous agent loop to power your private AI ecosystem.</td>
       <td>
@@ -42,7 +42,7 @@
       </td>
    </tr>
    <tr>
-      <td>4. <img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
+      <td><img width="50" src="https://raw.githubusercontent.com/Loguru-AI/Loguru-CLI/main/loguru.png" alt="Loguru Logo"/></td>
       <td>Authoring <a href="https://github.com/Loguru-AI/Loguru-CLI" target="_blank">Loguru AI</a></td>
       <td>CLI based log intelligence tool powered by LLMs</td>
       <td>
@@ -52,7 +52,7 @@
       </td>
    </tr>
    <tr>
-      <td>5. <img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
+      <td><img width="50" src="https://avatars.githubusercontent.com/u/176795709?s=200&v=4" alt="NetGaze Logo"/></td>
       <td>Authoring <a href="https://github.com/netgaze/netgaze">NetGaze</a></td>
       <td>Lightweight network observability tool to monitor network components.</td>
       <td>
