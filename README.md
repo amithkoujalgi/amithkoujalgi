@@ -31,14 +31,14 @@
       </td>
    </tr>
    <tr>
-      <td>3. <img width="50" src="https://avatars.githubusercontent.com/u/154257832?s=200&v=4" alt="Ollama4j Web UI Logo"/></td>
-      <td>Maintainer of <a href="https://github.com/ollama4j/ollama4j-web-ui">Ollama4j Web UI</a></td>
-      <td>Web UI for Ollama built in Java with Vaadin and Spring Boot</td>
+      <td>3. <img width="50" src="https://private-user-images.githubusercontent.com/1876165/597097639-e32d88a6-dde5-4007-9018-a1535cba3b4d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzk4NjQ3MzYsIm5iZiI6MTc3OTg2NDQzNiwicGF0aCI6Ii8xODc2MTY1LzU5NzA5NzYzOS1lMzJkODhhNi1kZGU1LTQwMDctOTAxOC1hMTUzNWNiYTNiNGQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDUyNyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA1MjdUMDY0NzE2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDk5OGVkMmFhNThlZjQ2ZTMzYzM3MzAxMTRkMTM1MGZmM2JiYmI3MjUyNDBhMmU5Y2Q4MTI5N2YzNDlkY2NkNCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGcG5nIn0.ptECcxVkXh4Jdtm6PI4SMs3I1OWY93IPqP-NFgonnqM" alt="Doota Logo"/></td>
+      <td>Maintainer of <a href="https://github.com/ollama4j/doota">Doota</a></td>
+      <td>An agentic system for Ollama with built-in tools and an autonomous agent loop to power your private AI ecosystem.</td>
       <td>
-         <img src="https://img.shields.io/github/stars/ollama4j/ollama4j-web-ui" alt="GitHub stars" />
-         <img src="https://img.shields.io/github/forks/ollama4j/ollama4j-web-ui" alt="GitHub forks" />
-         <img src="https://img.shields.io/github/watchers/ollama4j/ollama4j-web-ui" alt="GitHub watchers" />
-         <img src="https://img.shields.io/github/contributors/ollama4j/ollama4j-web-ui?style=social" alt="Contributors" />
+         <img src="https://img.shields.io/github/stars/ollama4j/doota" alt="GitHub stars" />
+         <img src="https://img.shields.io/github/forks/ollama4j/doota" alt="GitHub forks" />
+         <img src="https://img.shields.io/github/watchers/ollama4j/doota" alt="GitHub watchers" />
+         <img src="https://img.shields.io/github/contributors/ollama4j/doota?style=social" alt="Contributors" />
       </td>
    </tr>
    <tr>
